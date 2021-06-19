@@ -1,4 +1,7 @@
-# RemoveMojaveApps
+# RemoveCatalinaApps
+
+Under Catalina the below scanario is valid, just Apps located inside /Volumes/<Catalina root disk>/System/Applications/`
+
 How to remove protected apps, such as News, Stocks, and Home from a Mojave macOS installation
 
 ### Special thanks to [9define](https://github.com/9define) for suggesting this workaround! :) 
