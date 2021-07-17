@@ -19,6 +19,18 @@ Have you upgraded to Majave on your mac and object to sponsored apps? Refuse to 
 * Home -- Forces users to buy products that pay Apple for the priviledge of being compatible with macOS and iOS.
 
 ## Steps
+1. Inslall Catalina
+
+2. Reboot into recovery mode (Hold `Command + R`)
+
+3. Open Terminal by clicking `Utilities -> Terminal`
+
+4. `cd /Volumes/<root disk>/System/Applications/`
+
+5. `rm -rf {News.app,Home.app,Stocks.app}`
+	
+
+	
 1. Install/Upgrade to Mojave
 
 2. Reboot into recovery mode. 
