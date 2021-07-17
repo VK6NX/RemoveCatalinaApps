@@ -18,7 +18,7 @@ Have you upgraded to Majave on your mac and object to sponsored apps? Refuse to 
 * News -- Multiple liberal sources. Biased. Little to no unfiltered conservative representation. Shills Apple products.
 * Home -- Forces users to buy products that pay Apple for the priviledge of being compatible with macOS and iOS.
 
-## Steps
+## Steps Catalina
 1. Inslall Catalina
 
 2. Reboot into recovery mode (Hold `Command + R`)
@@ -30,7 +30,7 @@ Have you upgraded to Majave on your mac and object to sponsored apps? Refuse to 
 5. `rm -rf {News.app,Home.app,Stocks.app}`
 	
 
-	
+## Steps Mojave
 1. Install/Upgrade to Mojave
 
 2. Reboot into recovery mode. 
